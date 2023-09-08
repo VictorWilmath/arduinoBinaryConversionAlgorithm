@@ -1,5 +1,5 @@
 //any integer can be put into userInput
-
+//only goes up to 7 bits
 int userInput =0;
 //code takes user input and divides by 2
 //if remainder, digit is 1
